@@ -1,0 +1,4 @@
+sawa@sawa-Inspiron-5567:~/.ssh$ eval "$(ssh-agent -s)"
+add priv key to ss agent 
+sawa@sawa-Inspiron-5567:~/.ssh$ ssh-add ~/.ssh/github
+
