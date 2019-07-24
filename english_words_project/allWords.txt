@@ -1,0 +1,1313 @@
+Word{eng='inflate', uk='раздувать', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tray', uk='поднос', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='give in', uk='здавати( багаж )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='check in', uk='зарегеструватись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='drop off', uk='висадити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fill in', uk='заповнити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pick up', uk='підібрати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='take of', uk='взлетіти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='excuses', uk='виправдання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='excess', uk='надлишок', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='left guard down', uk='розслабитись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='upright position', uk='вертикальне положення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='disrupted', uk='зірваний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='disembark', uk='висадитися', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='consequent action', uk='послідовні дії', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='aversion', uk='відраза', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='apile', uk='підходити .підійти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='leave for', uk='відїжати кудись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hold', uk='багажний відсік', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='at /in the end', uk='пряме значення/в кінці кінців', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='couch', uk='автобус', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='acquiring', uk='придбання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='aliases', uk='псевдоніми', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='embracting', uk='охоплюючи', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='obstacle', uk='перешкода', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='trible', uk='племя', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='outstanding', uk='величезний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='appeal', uk='підходити , подобатись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='have stamina for smth', uk='мати витриму/сили для', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='remarkable', uk='видатний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='make judgment', uk='зробити судження', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='prejudice', uk='упередження', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ought to', uk='повинні', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='absorb', uk='поглинати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='distract', uk='відволікати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='scrutty', uk='неряха', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tomBoy', uk='баба - хлоп', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='vivid', uk='очевидной чіткий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='get up to', uk='витворити щось', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='anthem', uk='гімн', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='desperate', uk='відчайдушні', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='steb', uk='спостерігати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='frenetic', uk='божевільний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='set out to do smth', uk='налаштуватись зробити щось', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='inventiv', uk='винахідливий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='conducted', uk='проводиться', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='survey', uk='опитування', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='research', uk='дослідження', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='poll', uk='опитування', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hand them down', uk='віддай їх (молодшому брату джинси)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='obstacle', uk='перешкода', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='in favour of', uk='на користь бути до чогось', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='behind', uk='на крок позаду', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='to catch up with', uk='наздогнати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='to do smth on impulse', uk='імпульсивні дії ( необдумані)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='make up', uk='зіставляти складатись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='even changing', uk='постійно змінний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='of (тосаме просто змінена форма)', uk='chairs made of wood', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='made    from (змінена сам матеріал )', uk='paper made from wood', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sin', uk='гріх', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='distinguish', uk='відрізнити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='comprehensive', uk='комплексный', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='intimidating', uk='пугающим', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='albeit', uk='хотя', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='implications', uk='последствия', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='retrieve', uk='извлекать', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='explicitly', uk='явно ( указано явно )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='purely', uk='чисто', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mince', uk='фарш', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='consolation', uk='втіха', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='towels', uk='рушники', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='if there any consolations', uk='ну якщо тобі стане легше', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='regardless', uk='незалежно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='scattered', uk='разбросанный', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='gather', uk='собирать', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='domestic flight', uk='внутрішній рейс (вітчизняний)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='emits', uk='випромінює', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='addicted', uk='залежність', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='youth', uk='молодь', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='cure', uk='вилікувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='keen', uk='захоплений. увлеченный', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='vehicle', uk='транспортний засіб', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='common observed', uk='загалом спостерігається', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='confess', uk='зізнаватись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dormitory', uk='гуртожиток', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='rattle', uk='шелестіти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='die down', uk='затихать , стихати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='earnestly', uk='щиро', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='weather forecast', uk='прогноз погоды', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fare', uk='вартість проїзду', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fee', uk='плата за нематеріальне', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mortgage', uk='іпотека', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='used to +inf', uk='був звиклий до чогось', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='be used to  V+ing', uk='мати звичку', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='get used to V+ing', uk='звикати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='zero conditional (general truth)', uk='if+present simple  | present simple', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='1 cond(real present )', uk='if + present | future can/may must/shuld could + present bare intinive (if we work hard we will finish the project on time)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='2 cond (bla bla )(Present condition )', uk='if past simple or past contioous + would/could/might +present bare infinitive(if i didnt have to work such long hours I wouldnt be so tired)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='3 cond (regret ) (PAST CONDITION)', uk='if past perfect/past perfect cont + would/could/might have  +present bare infinitive (if i had been more careful i wouldnt have made such a big mistake)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mixed conditional unreal  (if condition in past then result in past ) причина в минулому наслідок в теперішньому', uk='if you hed cought that plain you would be dead now (якщо би ти попав на той літак ти бу би вже мертвий )(if 3 condition  first part then 2 cond second part)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mixed conditional unreal (condition is steel true result in the past )', uk='if i was good coocker i would have invited tham for diner(якщо би я був добрим кухарем я би їх запросив  )(if 2 condition  first part then 3 cond second part)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pillars', uk='стовпи', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='connect the dots', uk='найти связь', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='better safe, than sorry', uk='краще перестрахуватися, ніж потім шкодувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='not confined to', uk='не обмежений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='indifferent', uk='нейтральний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='roughtly', uk='грубо сказано', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='head-light', uk='фара', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='consequently', uk='отже, в результаті', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='cautious', uk='обережний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='take your time', uk='ne spishyty', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='Substitution', uk='Заміна', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='contaminate', uk='загрязнять', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='invocation', uk='вызов', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fiance', uk='наречений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='urge', uk='заклик', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='stunts', uk='трюк', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='get strasght to the point', uk='перейти до діла', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='confined to', uk='стосується , обмежений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='admmit', uk='визнати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reckless driving', uk='безрозсудне водіння', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='measure', uk='межа', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='complain about', uk='поскаржитись на', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='appointment', uk='запис( на зустріч)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='take up /sign in', uk='піти кудись / записатись на щось', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hebituall offender', uk='постійно порушувач', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='get the buzz', uk='отримати задоволення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='volnarabul', uk='вразливий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='leep off', uk='спригнути з скелі', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='spectator', uk='великий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='derives', uk='походити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hail', uk='град', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='interest rait', uk='відсоткова ставка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='complain about', uk='скаржитись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reserved', uk='стриманий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='food shortage', uk='скорочення кількості їжі', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='weather the shtorm', uk='пережити / (exspirience ) щось', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='right as rain', uk='все добре', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='snowed under', uk='не мати часу', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sinking', uk='осідання ( грунту )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='offended', uk='обраений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='homesick', uk='журба по дому', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='disappointment', uk='розчарування', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='relieved', uk='звільнений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fed up', uk='bored and unhappy', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='upset', uk='unhepy when smth bad heppened', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='astonished', uk='здивований', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bewildered', uk='збитий з пантелику', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='delighted', uk='в захваті', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='overwhelmed', uk='пригнічений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='stunned', uk='приголомшений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='thrilled', uk='в захваті', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='emergency', uk='надзвичайна ситуація', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='avalanche', uk='лавина', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ruft', uk='пліт', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tension', uk='напруженість', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='suspect', uk='підозрюваний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='persuaded', uk='переконаний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='resilient', uk='стійкий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='scared stiff', uk='до смерти перепугались.', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='shattered', uk='виснажений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='gobsmacked', uk='приголомшений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sick of hearing', uk='задовбало чути', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='gutted', uk='розчаровийний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reinforce', uk='підкріпити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bare (make it with bare hends )', uk='голі пусті (зробити це голими руками)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='spot', uk='помітити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='a chip on your  sholder', uk='мати стару образу', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bite off more than you can chew', uk='взять на себя больше чем можеш сделать', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='you cant take it with you', uk='с собой в могилу не забереш', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='everityng but the kitchen sink', uk='все , полностю все', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='over my dead body', uk='тольько через мой труп', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tie the knot', uk='женится', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dont judge book by its cover', uk='не соди по внешнему виду', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='when pigs fly', uk='когда рак не горе свиснет', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='wear your heart on your sleeve', uk='говорить что думаеш / бить откритим', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bite your tongue', uk='успокойся', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tbsp', uk='table spoon (столова ложка )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bathers', uk='плавці', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='embarrass', uk='збентежити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='wish + person/thing + would', uk='can change  use to things wn  wnt to hapenn or stop hapening becouse annoying us (i wish the bus would come )(cant use for yourself  not like that ” i wish i would”)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='wish + past simple', uk='things to be diferrent in present or future but we cant cange them (i wish i was ten years yanger)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='wish + past perfect', uk='regrets about past (i wish i hadnt bought that shoes)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='registry office', uk='закс', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='it is out of my character for me', uk='це мені не по силам', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fing charge', uk='знайти сміливість', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='positive', uk='100% впевнений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='francy', uk='сподобатись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fesinate', uk='захоплюючий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='as the risk of sounding', uk='це вже погано звучить', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='perseverance', uk='настойчивость', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='flawed', uk='недостатки', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='be keen', uk='хотіти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='treat as', uk='рассматривать в качестве/поводитись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reluctant', uk='неохотный', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='degrade', uk='снижать', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='feature film', uk='художній фільм', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='deliberately', uk='сознательно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='off the hook', uk='зняти з себе відповідальність', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='regarding/concerning', uk='стосовно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tremendous', uk='огромный', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='perpetual', uk='бессрочный', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='in pockets', uk='локально а не глобально', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='involve', uk='включать', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='postpone', uk='откладывать', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='arrange', uk='организовать', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='deserve', uk='заслуживать', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hesitate', uk='колебаться', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='threaten', uk='угрожать', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='present infinitive', uk='(i want to sleep ) на одній часовій площині', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='present cont infinitive', uk='(she mast be sleeping now) на одній часовій площині і наголошуєтся на тому що є процес  BE - обовязково', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='perfect infinitive', uk='(he claims to have won)   інфінітив відбувся до дії в дієслові', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='perfect continious infinitive', uk='(he claims to have been working on the computer all day) інфінітив відбувся до дії в дієслові є наголошення на тривалості', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='landfill', uk='звалка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='eyesore', uk='боляче дивитись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='prompeted', uk='спровокувало', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='concerns', uk='занепокоєння', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='handfull', uk='декілька', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='once-unsinkable goal', uk='колись навіть не думали що таке може', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='scraps', uk='брухт', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='headed', uk='прямувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='soil', uk='грунт', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='disposed', uk='утилізован', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='moist', uk='вологий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='imposed', uk='введено', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='proceeded', uk='продовжувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='venue', uk='поле подій', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='diminish', uk='зменчити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='GP', uk='лікар', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tinnitus', uk='шум', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='infuriating', uk='приводить в лють', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='irreversibly', uk='невідворотно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='deteriorate', uk='погірщуватись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='discreet', uk='сдержанный', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='exposure', uk='воздействие', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='whir hum clacking', uk='шум', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='deaf', uk='глухий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='blanket', uk='ковдра', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='duvet', uk='ковдра', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='insomnia', uk='безсоння', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='nap', uk='дрімота', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='log', uk='бревно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sheets', uk='простирадло', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='snore', uk='хропіти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='yawn', uk='позіхати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='preserve', uk='зберігати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pich', uk='тональність', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='exsploit', uk='задіювати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='movement', uk='частина музики', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='carry out', uk='провести експеримент', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ancestors', uk='потомки', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='trip over', uk='спідкнутись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='apparent reason', uk='вагома проблема', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='to be charget with', uk='бути звинувачеим', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dangle', uk='звисати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mumbled', uk='пробурмотіти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='momorable', uk='памятний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='recolection', uk='спогад', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='put out', uk='зробити сумним (зіпсувати настрій)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ranning riot', uk='хаос', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='outburst', uk='вибухові??', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bury', uk='закопати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sobb', uk='ридати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hostile conditions', uk='умови для заручників (жахливі)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ordeal', uk='виклик', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='loo', uk='туалет', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='retine', uk='повернутись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='launch into a tirade', uk='почати щось робити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='impose fine', uk='накласти штраф', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='cower with', uk='-накрити чимось', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='live up to reputation', uk='мати репутацію', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='notice/realize', uk='see observe/understend fully', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='avoid/prevent', uk='dodge / stop', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='look/seem', uk='general impresion / physacal impresion', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mind/metter', uk='get get annoyed or upset/be a problem', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='beat/win', uk='defeat /win', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='refuce /deny', uk='say you dont want to  do sth/say it is not true', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='raise/rise', uk='make sth go up/ go up', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='lay/lie', uk='put smth in horisontal position/ put your body in horisontal position', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='steal /rob', uk='/steal with force', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='withdraw', uk='відкликати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='upbringing', uk='виховання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='intention', uk='намір', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='inhibitions', uk='гальма', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='nastiest', uk='бридкий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='quarred', uk='сваритись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='lose temper', uk='вийти з себе', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='easen said than done', uk='лагше сказати ніж зробити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='have respect for thmb', uk='поважати когось', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='exaggerate', uk='перебільшення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='stick of the point', uk='бути чітким', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reach the agreement', uk='досягти порозуміння', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='come allong', uk='натрапити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tence', uk='напружений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='difencive', uk='захисний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='back up (argument)', uk='підтримамти (аргумент)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bother', uk='турбуватися', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='swear words', uk='лайка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ability/ posibility', uk='can(Present) / could(Past) /be able to (gerund)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='obligation', uk='must(сам собі)/have to(хтось інший) / should(advice or opinion)  must not -заборона not have to -не треба робити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='deduction', uk='may/might must cant (Present) may must cant have to (Past)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='digest', uk='обробляти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='adequate fluid intake', uk='достатнє споживання рідини', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='thicker', uk='товще', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='clinical trial', uk='клінічний досвід', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='insufficient', uk='недостатньо', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='solid', uk='твердий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='quantity', uk='кількість', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tumour', uk='пухлина', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='state of mind', uk='внутрішній стан( душевний стан )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pine', uk='сосна', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='perpetual', uk='вічний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='confined', uk='обмежений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='disregard', uk='ігнорувати([халатність)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pile', uk='купа (stack)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='shattered', uk='зруйнований', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='discouraged', uk='не рекомендується', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='advice', uk='-uncountable ()', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='exaggerate', uk='перебільшувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ankle', uk='щиколотка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='calf', uk='литка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='heel', uk='пята', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='elbow', uk='лікоть', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fist', uk='кулак', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='palm', uk='долоня', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='wrist', uk='зап'ястя', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bottom', uk='сідниця', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='chest', uk='грудна клітка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hip', uk='стегна', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='thigh', uk='стегно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='waist', uk='талія', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='kidneys', uk='нирки', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='liver', uk='печінка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='lungs', uk='лагені', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='comb', uk='чесатись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fold', uk='складати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='shrug', uk='знизать плечима', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bring up another topic', uk='ввести в розмову іншу тему', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='come along', uk='натрапити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='flavour', uk='смак', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='thumb (rule of thumb)', uk='великий палець (емпіричне правило )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='winked', uk='підморгнув', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='chew', uk='жувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='kneel', uk='на коліна', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='frowned', uk='нахмурился', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='stretched', uk='потянутись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='suspect', uk='підозрюваний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='credible', uk='достовірний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sincere', uk='щирио', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='owe', uk='зобов'язаний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='we use would rather with infinitive without to as an alternative to would prefare', uk='i`d rather go on holiday in July than August', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='we can also use would rather + preson+past tense to talk about we would prefare another to do', uk='i`d rather you didnt smoke in here ,if you dont mind', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='look,feel smell soud taste', uk='cnat be in continioys (got different meaning )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='use look… + adjective', uk='you look  tired (просто опис)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='use look + like + noun', uk='tim looks like his father (виглядаєш схоже на )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='use look … + as if+clause (can use like or as thought instead as if)', uk='she looks as if she`s been crying(так начебто )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='feel like pasta', uk='would like to eat pasta', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dignity', uk='гідність', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='deception', uk='обман', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fidget', uk='метушитися', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='presume', uk='припустити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='genuine', uk='справжня', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='assertive', uk='ствердний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='decipher', uk='розшифрувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fasten', uk='закріпити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='contraction', uk='скорочення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='contempt', uk='презирство', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='rehearsals', uk='репетиції', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='box office', uk='касса', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='glumly', uk='задумливо/незадоволена', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='smutty', uk='брудний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reconcile', uk='поєднати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='frown', uk='хмуриться', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='struck by', uk='спало на думку', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='longed to', uk='прагнув', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='quarrel', uk='сварка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='praised', uk='хвалити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='stage fright', uk='nervous feeling before thmth', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='blackmail', uk='шантаж', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bribery', uk='хабарі', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='burglary', uk='крадіжка зі зломом', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fraud', uk='шахрайство', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hijacking', uk='взяти літак в заручники', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mugging', uk='пограбування', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='robbery', uk='грабіж', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='smuggling', uk='контрабанда', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='stalking', uk='переслідування', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='a big mouth', uk='балакуча людина', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='by heart', uk='вивчити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='to cost an arm and leg', uk='вартий дуже багато', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='to have sweet tooth', uk='сладкоїжка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='head over heels in  love', uk='повний кохання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='a long face', uk='сумне лице / не задоволене', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='nosey', uk='лізе не в свої  справи', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pain in the neck', uk='зануда/ заноза', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='to pull  someone's leg', uk='пранк', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='see eye  to eye', uk='зійшлись в поглядах', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='shake a leg', uk='спішити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='i'm on cloud nine', uk='на 9 небі від', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='i am green with envy', uk='повний заздрощів', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='accused', uk='обвинувачений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='acquitted', uk='виправданий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='court', uk='суд', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='evidence', uk='свідчення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sentenced', uk='засуджений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='witness', uk='свідок', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tramp', uk='бродяга', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='Unleashing', uk='Розв'язання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='far cry from', uk='далеко від', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='foremost', uk='перш за все', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='shrunk', uk='зменшився', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='deliberately', uk='навмисно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='PASIVE', uk='FORM', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='Subject + to be (conjugated) + past participle + rest of sentence', uk='https://www.ef.com/english-resources/english-grammar/passive-voice/', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='Use the passive when you want to talk about an action but you are not  interested in saying who or what does /did the action', uk='if you also want to mention the person or thing that did the action , use BY .', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='present simple', uk='Murderers are usualy sentenced to life imprisonment', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='present continious', uk='the trial is being held at the moment', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='present perfect', uk='My car hes been stolen', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='past simple', uk='jim was arrested last month', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='past continious', uk='the cinema was being rebuilt when it was set on fire', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='past perfect', uk='we saw that one of the windows had been broken', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='future', uk='the prisoner will be released next month .The verdict is going to be given tommorow', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='infinitive with to', uk='People used to be imprisoned for stealing bread', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='infinitive without to', uk='you can be fined for parking on yellow line', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='gerung', uk='he paid a fine to avoid being sent to jail', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='they say that the fire was started deliberately', uk='it is said, belived etc + that + clause ti is said that the fire was started deliberately', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='the police belive he has left the country', uk='He ,the man , etc + is said ,belived etc + infinitive or perfect infinitive he is believed to have left the country', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='lit', uk='крышка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fabled', uk='легендарний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='connoisseur', uk='поціновувач', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='utterly', uk='повністю', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='release', uk='впоратися', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fall into place', uk='стало на своє місце', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='impostor', uk='самозванець', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='landline', uk='стаціонарний телефон', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fraudulent', uk='шахрайський', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='consent', uk='згода', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='key in', uk='введіть', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='paramount', uk='першорядне значення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='praise', uk='похвалити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='quarrel', uk='сварка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='give away', uk='видати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='despise', uk='призикати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='contempt', uk='призріння', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='deception', uk='брехня', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='exedurate', uk='перебільшувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='justifications', uk='підтвердження', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='for instance', uk='до прикладу', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='shrunk', uk='скоротити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='recollection', uk='спогад', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='deprived', uk='позбавляти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dignity', uk='гідність', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='price', uk='хвалити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='obtain', uk='отримати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='accused of', uk='звинувачений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='admit', uk='визнавати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='apology', uk='вибачатись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='shelter', uk='притулок', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='spit out', uk='виплюнути', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='distinguished', uk='відрізнявся', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reach for', uk='потянувся за', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pass round', uk='передавати по колу', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='baffled', uk='здивований', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='surveillance', uk='спостереження', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='baised', uk='упереджений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='accurate', uk='точний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='objective', uk='об'єктивний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='censored', uk='цензура', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='clash', uk='зіткнення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='vows', uk='обітниці', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='GEGUND (ing swiming)', uk='INFINITIV (to swim )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='розслаблений ing важно действиє', uk='to do результат цель', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='getting a better job require some preparation', uk='he has english lesons to get better job зачем  to get a better job', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='Achieving a good work -life balance is tricky', uk='i moved to australia to have better life  зачем to have better life', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='коли використовуємо', uk='коли використовуємо', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='i admit making a lot of mistakes admit -зараз  making - зараз  не перфектний герундій', uk='he seems to be busy seems і to be зараз  не перфектний інфінітив', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='i admit having made a lot of mistakes admit -зара having made -past перфектний герундій', uk='he sems to have been very busy to have been - past зукаусе шташтшешм', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='use have something done when you get another person to do something for you', uk='i took a photo of dog == i took the photo myself i had my photo taken on west bridge=i asked someone to take my photo', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='have is main verb so it changes according to the tence', uk='im going to have my hair cut tommorow. i han my car repaired after accident', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='1 + to + infinitive', uk='agree offer refuse promise threaten', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='2+ person+to + infinitive', uk='advice ask convince encourage invite persuade remind tell warm', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='3+ ing form', uk='apologize to smb for insist on accuse sb of recommend admit regret blame sb for  suggest deny', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='shove', uk='пхати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='insult', uk='образив', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='paced', uk='темп', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='retouching', uk='ретушування', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='distorted', uk='спотворене', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='supplement', uk='доповнення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='unfulfilled', uk='невиконаний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bagels', uk='бублики', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='gesture', uk='жест', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='solicited', uk='затребуваний / пропонував', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='precise', uk='точный', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='death penalty', uk='смертна кара', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='he is found guilty', uk='визнаний винним', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pled guilty', uk='признать себя виновным', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='endorsers', uk='рекламное лице', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='withdrawn', uk='отозваны', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='in think', uk='в моді', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='nutritionist', uk='дієтолог', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='take over', uk='взяти на себе', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='surveillance camera', uk='камера спостереження', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='oath', uk='клятва', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='let down', uk='знищити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='consent', uk='дозвіл', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='obtain', uk='отримати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='attribute', uk='пояснювати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='circumstances', uk='обставини', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='launch', uk='запустити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reveal', uk='проявляти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='alienations', uk='самотні', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='uniformity', uk='однорідність , одноманіття', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='recluses', uk='домоседка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='to accompany', uk='супроводжувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='vibrant', uk='яскравий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='stroll', uk='прогулюватись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='slans', uk='трущобы', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='poverty', uk='бідність', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reinforced', uk='поселений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='luxurious', uk='розкішний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='choke', uk='подивитись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='cosmopolitan city', uk='багатонаціональне місто', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bay', uk='затока', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='antiquities', uk='антикваріати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='intact', uk='недоторканий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='peer into', uk='вдивлятись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='give a buzz', uk='приносити задоволення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='route', uk='шлях', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='laid back', uk='розслабитись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='jam packed', uk='переповнений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sweep away', uk='змити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='exquisite', uk='вишуканий визначний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='muslim', uk='ісламісти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='waterform', uk='водна форма , навколо вода', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='suburb', uk='передмістя', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='revolving', uk='обертається', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='flop', uk='невдача', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='strolling', uk='прогулянки', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='buns', uk='булочки', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hazardous', uk='небезпечний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pedestrians', uk='пішоходів', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='scams', uk='шахрайство', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sightseeing', uk='екскурсії', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='convicted', uk='засуджений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='as a means', uk='засіб', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='route', uk='шлях', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='postage', uk='ставка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='incurred', uk='внесені', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='band roster', uk='махінації', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='plied', uk='гора загострений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='paved', uk='прокладено', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='cautiously', uk='обережно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='Although', uk='Хоча', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='even though', uk='незважаючи на', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='though', uk='хоча', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='in spite of / despite', uk='незважаючи / не дивлячись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='to /in order to/ so as to / for /so that', uk='до / для того, щоб / для / так, щоб', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='Although /even though', uk='на початку речення або в середині', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='in spite of / despite', uk='after we use a noun a verb in ing form or the fact+ subject + verb', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='whatever', uk='anything', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='whichever', uk='anything from limited number', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='whoever', uk='any person', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='however', uk='in any way', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='wherever', uk='any place', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hazard', uk='небезпека', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='scam', uk='афера', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='con', uk='афера', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='accomplice', uk='співучасник', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='absenss', uk='відсутність', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='baton', uk='естафетна паличка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dacry', uk='зменшити важливість', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='take baton from sthmb', uk='взяти естафету від кого-л', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='intrude', uk='втрутитись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='impact', uk='вклад', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='infusion', uk='втручання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='have bearing on', uk='мати вплив', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='gross', uk='огидно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='amalgamation', uk='поєднання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hence', uk='отже', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fate', uk='віра', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pitches', uk='виставляти на показ', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='effortlessly', uk='без зусиль', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='vague', uk='неясный', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='portrayal', uk='зображення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='coincide', uk='збігаются', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='rife', uk='рясний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='oddball', uk='дивак', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='have to hearing on', uk='доводиться чути', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='rudimentary', uk='рудиментарний , застарілий примітивний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='perk ears up', uk='підбадьоритися , загострити увагу', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='scarce', uk='дефіцит', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='inevitable', uk='невід'ємний неминучий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='acquired', uk='придбаний здобуті', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='resonate with', uk='резонувати з (від чогось)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='susceptible', uk='вразливий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='looked into', uk='research ( досліджувати )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='apprentice', uk='учень', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='inhaling', uk='вдихати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fiction', uk='вигадка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='transfusions', uk='переливання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='leaded petrol', uk='этилированный бензин', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='inhaled', uk='вдих', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='contacted polio', uk='контрацепція поліомієліту', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='strangled', uk='задушив', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='withdrawn', uk='вилучено', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='disposable', uk='одноразовий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='lid', uk='крышка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dome', uk='купол', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='interchangeably', uk='взаємно замінні', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='all  (ALL = in general , all of the =specific)', uk='we use all or all (of ) for plural or uncountable noun (all enimals need food)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='everyhing everybody (all thing all people)', uk='we use everything everybody + singular verb (everybody is here)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='most (most =general , most of = specific )', uk='we use most to say the majority(Most people live in cities)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='we often use all / most off + an oject  (all of us / most of them )(All of us work hard and most of us come to class every week)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='use every + singular countable noun to mean “all of a group”(Every room has bathroom)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='no , none any', uk='we use no + a noun after a [+] verb or any + nouun after [-] verb to refer to zero quantity .Any can also be used without noun (Is there any milk? sorry there`s no milk .there isn`t any milk)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='Use none in short answers or with a [+] verb to refer to zero quantity. You can also use none + of + pronoun/ noun (is there any food? No,none/ there `s none .But none of us are hungry)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='we use any (anything anyone) and [+] verb to mean it doesn't matter what who (Come any weekend! Anyone can come)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='we use [+] verb with both and neither .The verb is plural with both and either singular or plural with neither(Both Sawa and Oleh were scientists . Neither 1 nor 2 was (where) eaten )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='when both refers to subject of clause it can also be used before main verb but after BE(She and her husband boot won Nobel prizes)', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='we often use both /either /neither + of + object pronoun (Neither of them realized how dangerous radium was )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='exquisitely', uk='неймовірний вишуканий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tyres', uk='шины', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='rely', uk='покладатись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='proverb', uk='приказка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bumpy start', uk='важкий старт', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='anesthetic', uk='знеболююче', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='going bald', uk='лисіти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='lead', uk='свинец', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='blue glow', uk='вибух (синє світіння )', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='all broke', uk='без грошей', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='invasion', uk='вторгнення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='adopt', uk='приймати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hunger strike', uk='голодовка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='jail', uk='в'язниця', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='trial', uk='пробний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='cherished', uk='заповітний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='chorus of cynics', uk='хор циніки', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dissonant', uk='дисонує', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='faced down impossible odds', uk='розвінчала неможливі шанси', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='eagerly', uk='охоче', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='envelope', uk='конверт', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='portrayed', uk='зображений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='savage', uk='дикун', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='stir', uk='перемішувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sick and tired', uk='fed up with', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='few bits and pieces', uk='small things', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='now and again', uk='occasionally', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='wait and see', uk='you will soon find out', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bit of give and take', uk='compromise', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ups and down', uk='good times and bad times', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='restore law and order', uk='a situation in with the law is obeyed', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='safe and sound', uk='without problem or injury', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='death dorth', uk='за крок до смерті', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='authority', uk='влада', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sacred', uk='священный', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pause for reality', uk='подивитись на речі так як вони є реально а не так як ми хочемо їх бачити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='invasion', uk='вторгнення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='contract', uk='заразитись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='contageous', uk='заразний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='riot', uk='повстання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='under circumstances', uk='за обставин', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='going in for', uk='обирають', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='emeritus', uk='заслужений діяч у відставці', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='its striking', uk='це вражає', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='cut and dried', uk='шаблоны', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='conclusive', uk='вирішальний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='viral', uk='вірусної', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='household name', uk='відомк  імя', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='put my name forward', uk='висунути свою кандидатуру', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='given name', uk='first name', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='maiden name', uk='дівоче імя', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='emphasise', uk='підкреслити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='perceptive', uk='сприйнятлива людина', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='prejudiced', uk='упереджений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='insensitive', uk='нечутливі', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='solitary', uk='самотній', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='rebellious', uk='бунтівний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mature', uk='зрілий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='inquisitive', uk='допитливий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='considerate', uk='уважний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='circumspect', uk='обережний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='impetuous', uk='бурхливий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='gregarious', uk='стадний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='obstinate', uk='упертий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='conscientious', uk='сумлінні', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='disobey', uk='не послушаться', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='anxious', uk='тревожный', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='whizzkid', uk='вундеркінд', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='busyBody', uk='занятий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='chatterbox', uk='балакун', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pain in the neck', uk='проблема / заноза', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='old hand', uk='досвідчений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='set in her ways', uk='звиклий до чогось / має свої правила', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='black sheep', uk='прашива вівця', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='life and soul', uk='душа компанії', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='deliberately', uk='навмисно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='obed', uk='дотримуватись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='meticulous', uk='педантичний, дотошний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='nit-pikers', uk='підбирачі', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='deadline junkie', uk='відкладають на потім', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='obsessive planners', uk='обсесивні планувальники', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fall into', uk='підпадати під критерій', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ultimative', uk='в результаті', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='screw', uk='шуруп', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='disregard', uk='халатно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sweeping generalisation', uk='загальний висновок', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='flat- pack furniture', uk='коробок с мебелью / розібрані меблі', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='rotten apple', uk='погана людина яка псує людей навколо', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='loose cannon', uk='непередбачувана людина', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='couch potato', uk='лежебока', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='wet blanket', uk='person who ruins other persons good time', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='big cheese', uk='важлива впливова людина', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tough cookie', uk='сильна людина готова пережити важкі моменти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='inquisitive', uk='допитливий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='filthy', uk='брудний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ancestry', uk='походження', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='immediate family', uk='найближчі родичі', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='act of  defiance', uk='акт непослухання невиконання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='promptly', uk='оперативно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mists of time', uk='тумани часу', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='plain old', uk='старий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='diligent', uk='старанний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='taken aback', uk='приголомшений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pride and prejudice', uk='гордість і упередження', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reluctant', uk='не мати бажання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reckon', uk='вважати /гадати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='serene', uk='безтурботний / дуже спокійний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dignified', uk='величний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='snazzy', uk='розкішний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hazard', uk='небезпека', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='attitude', uk='поза людини на фото', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='evocative', uk='експресивний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='revealing', uk='характерні', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='notoriety', uk='слава', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='wind them up a bit', uk='накрутити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='smithereens', uk='черепки / кусочки', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='inadequacies', uk='недоліки /не компетентність', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='habit that stuck', uk='вичка яка привязалась', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='acute', uk='гострий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='business acumen', uk='бізнес чуйка / бізнес жилка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='caught off guard/ quite taken aback', uk='приголомшений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ingratiate with', uk='привласнити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='aloof', uk='осторонь', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='surplus', uk='надлишок', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='covert', uk='ввічливості', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dismay', uk='прикро', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='preached', uk='проповідував', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reconciliation', uk='примирення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='strive', uk='прагнути', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='apron', uk='фартук', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='make a point of', uk='ставлять за мету', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='criteria -  criterion -singular form', uk='критерія', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='carpenter', uk='тесляр / столяр', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='first and foremost', uk='в першу чергу', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='as and when work as and when necessary.', uk='як тільки  працювати як тільки це буде потрібно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bits and pieces', uk='всяка всячина / обрывки шматочки', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='odds and ends', uk='обривки / шматочки', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='by and large', uk='за великим рахунком/ в загальному', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ifs and buts', uk='усілякі але', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='rough and ready', uk='зроблений швидкоруч', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='all one's effort', uk='усі зусилля', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='doer', uk='виконавець', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='drifter', uk='бродяга', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='go getter', uk='ініціативний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='scholars', uk='науковець', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='vibrant', uk='яскравий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='insight', uk='в полі зору', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='succinctly', uk='лаконічно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sanctimonious', uk='святі', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='coined the term', uk='придумав термін', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='foregone conclusion', uk='наперед визначений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fellow playwright', uk='товариш драматург', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='enduring reveance', uk='стійке значення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='albeit', uk='хоча', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='stay wander', uk='залишайтеся бродити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='all walks of life', uk='усі сфери життя', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='having the time of her life', uk='мати час на власне життя', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='enduring', uk='стійкий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='albeit', uk='хоча', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='snooze', uk='відкласти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='prior to', uk='до якогось року', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='don't sweat small staff', uk='не роздувай з мухи слона', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='preceptive', uk='сприятливий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='screw driver', uk='викрутка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='cum to blow', uk='вийти з себе', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='brush up', uk='оновити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='foregone conclusion', uk='наперед вирішене питання/ притання в якого вже є вирішення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='full circle', uk='безвихідна ситуація', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='at one fell swoop', uk='одним махом /одним пострілом  2 зайцівв', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='wear my heart upon my sleeve', uk='виставляти почуття напоказ', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='a sorry sight', uk='сумна картина', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reither there not there', uk='ні в тин ні в ворота', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='the world is my oyster', uk='майбутне в втовїх руках / в тебе є всі можливості', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='the be all and end all', uk='кінець і початок усьогоь/ панацея', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='straged', uk='відчайдушно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='what accounts', uk='що лежить в  основі', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='enduring', uk='стійке', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='heeding warning', uk='попередження', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='make a point of', uk='намагатись / поставити за мету', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='stand someone in good stead', uk='навчити гарному уроку', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='staring', uk='дивився', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='versatile', uk='універсальний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='entail', uk='спричиняє', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='encountering', uk='наштовхуватися', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='rough', uk='грубо кажучи', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='larger than life', uk='яскрава особистість', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='strayed from', uk='відійти від', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='story of my life', uk='і так завжди', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='a fact of life', uk='реалія життя', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='having the time of smbth life', uk='найкращий момент  мого життя', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='wine about', uk='нити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='abolish', uk='покинути відмовитись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='entitled', uk='мати привілегії', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='nerd', uk='ботанік', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='beneath', uk='позаду', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='chorse', uk='домашня робота', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='inquisitive', uk='допитливий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='account for', uk='лежить в основі', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='regardless of', uk='не зважаючи на', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dismiss', uk='розпустити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='not suit their own propouses', uk='не відповідають власному призначенню', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='load and clean', uk='чітко', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='integral', uk='невідємний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='passion', uk='пристрасть', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='steed', uk='користь', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='without meaning to', uk='не маючи наміру', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='up and about', uk='виздоровіті', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='part and parcel', uk='невідємний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='notable', uk='в першу чергу', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='thrive', uk='процвітати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='to stamp a mark', uk='лишити слід / поставиити відбиток', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='versitable', uk='гнучкий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='espire', uk='прагнути', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='utilitarian', uk='корисний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='implicate', uk='реалізація', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='retired', uk='вишукана', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='account for', uk='бути причиною', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='preserve', uk='зберегати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='consent', uk='згода', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bestroke', uk='на замовлення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='nomadic', uk='кочові', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pass down', uk='передавати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='infent', uk='немовля', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='responsibility lug with', uk='відповідальність лежить на', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reassuring', uk='обнадеживающим', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='traverse', uk='переміщатись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pose no threat', uk='не несуть небезпеку', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='gypsies', uk='цигани', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='anticipate', uk='передбачити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='it stack me', uk='спало на думку', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='nomatic', uk='кочові', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pass down', uk='передавати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='infent', uk='немовля', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='gulp', uk='ковток', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='peanuts', uk='арахіс', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='drawn attention to', uk='звернув увагу', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='herd', uk='стадо', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='livelihood', uk='заробіток грошей', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='cattle', uk='ходоба', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pasture', uk='пасовисько', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='get by', uk='зводити кінці з кінцями', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='closing in on', uk='наближається', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='cease to', uk='перестануть', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='content', uk='задоволені', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='prosperous', uk='процвітаючою', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='immient', uk='неминучий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reced', uk='відлив', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='get by', uk='зводити кінці з кінцями', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='getting ahead', uk='попереду', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='get through', uk='пройти через', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='get on with', uk='ужитися', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='get down to', uk='приступити до', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='getting at', uk='отримання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='wrapped in cotton wool', uk='слишком сильно  оберегать', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='precaution', uk='запобіжні заходи', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='unleash', uk='розвязати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='urgent', uk='терміново', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='exhaustive', uk='вичерпний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='favor', uk='користь', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sheer', uk='чисто', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='second nature', uk='что-либо естественное, привычное', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='safety net', uk='страховка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='every precaution', uk='будь-які запобіжні заходи', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='cutting corner', uk='халтура', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='flawlessly', uk='бездоганно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='chalk', uk='крейда', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mental fatigue', uk='психічна втома', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='greasy', uk='жирний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='vacillation', uk='коливається', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='abrupt', uk='різке', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='accomplished', uk='виконані', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='taught', uk='викладав', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dare', uk='наважуются', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='squeezed', uk='стиснув', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='vile', uk='мерзенний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mourn', uk='сумувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='beacon', uk='маяк', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='soggy', uk='мокрий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='immense', uk='величезний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='possess', uk='володіти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='put out', uk='погасити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='chain saw', uk='бензопила', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='combat', uk='оглянути', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='inclined to', uk='схильний до', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='prone', uk='схильний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='daring', uk='сміливий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='clinging  to', uk='чіпляючись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='rallied', uk='іронізував', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='accomplis', uk='видатний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='merely', uk='ледь', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hang on by thread', uk='висіти на ниточці', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hang on by eye lit', uk='висіти на ниточці', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ripple', uk='нерівності на поверхні', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='glass slick', uk='рівне як скло', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='slab', uk='плита', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='make ends meet', uk='зводити кінці з кінцями', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='get in', uk='натякати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='prosper', uk='процвітати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='flaw', uk='недолік', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='flawlessly', uk='бездоганно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pupil', uk='зіниці', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='clinging', uk='вчепитись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='induction', uk='introduction', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='embark', uk='зайти на борт / зайти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='coll on', uk='звернутись', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='broad back', uk='закликати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='in your third year', uk='на 3 курсі', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='come in', uk='стають в нагоді', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='to extend warm welcome', uk='ласкаво просимо', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='compulsory', uk='обов'язкові', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='apply', uk='стосуєтся', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='overseas', uk='іноземці', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='get your foot in the door', uk='почати карєру', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='foot the bill', uk='оплачувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='put foot in it', uk='сказал что-то не то./ зробив дурницю', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='followed in her mother footsteps', uk='пішов по стопам батьків', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='put your foot down', uk='зайняти позицію', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='e.g', uk='exempli gratia', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='i.e', uk='“that is.”', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='decent', uk='пристойний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fungus', uk='гриб', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='slopes', uk='схили', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='larvae', uk='личинки', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='devours', uk='пожирає', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='caterpillar', uk='гусениця', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='specimens', uk='зразки', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bait', uk='приманку', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='line', uk='льоска', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reel', uk='котушка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='rod', uk='вудка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='purse seine fishing', uk='рибальство з гаманцем', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='prey', uk='здобич', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='steered', uk='керований', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reeled', uk='намотували', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='narrator', uk='оповідач', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='spurs', uk='спонукати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tangible', uk='відчутним', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='got off on the wrong foot', uk='погано почав', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='got cold feet', uk='струсить', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='got foot in both camps', uk='сидіти на 2 стільцях одночасно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='find your feet', uk='зайнит свій темп / звикнути до чогось', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ailment', uk='недуга', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='impoverished', uk='збіднілий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='downfall', uk='повалення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='opt to', uk='воліють', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='apprehensive', uk='побоюється', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='excess of', uk='перевищення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='excessive', uk='надмірне', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='rampant', uk='розповсюдженно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fin', uk='плавник', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='come across', uk='випадково зустрітися', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='steer', uk='керувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='spur', uk='стимулювати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tackle', uk='снасті', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='preconception', uk='упередженість', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tangible', uk='відчутний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='coverage', uk='покриття', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='take sthmth bayond', uk='прийняти sthmth bayond', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='former', uk='колишній', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='crucial', uk='вирішальне значення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='do my best', uk='зробити все можливе', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='done to death', uk='набридло до смерті', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='do harm', uk='заподіювати шкоду', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='do favour', uk='зробити послугу', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='do my duty', uk='свій обовязок', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='do justice to', uk='віддати належне', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='done my bit', uk='зробив мій біт', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='do the trick', uk='зробити трюк', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='vehicles', uk='транспортні засоби', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='far less common', uk='набагато рідше', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='akin', uk='споріднений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='e.g', uk='наприклад', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='moth', uk='метелик', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='turn over', uk='валютний оборот', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='soar', uk='витати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='brazier', uk='мангал', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='up and about', uk='на ногах', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='abolish', uk='скасовувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='intention', uk='намір', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='blend in with', uk='в суміші з / вписуєтся', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ornate', uk='прикрашений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='disguised', uk='замаскований', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='elaborate', uk='розробляти / прикрашати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='set in all of', uk='встановити у всіх', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='modest', uk='скромний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='concrete', uk='бетон', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='imposing', uk='значний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='extent', uk='ступінь', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='deadly serious', uk='серйозний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='desperately unlucky', uk='катастрофічно не щастить', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hopelessly wrong', uk='безнадійно неправильно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mildly amused', uk='м'яко тішило', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='painfully slow', uk='болісно повільно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='patently obvious', uk='очевидно очевидно,', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='perfectly responsible', uk='абсолютно відповідальність', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='simply unacceptable', uk='просто неприйнятно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='vaguely familiar', uk='смутно знайомим', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='wildly optimistic', uk='дико оптимістичним', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='caveats', uk='застережень', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hardly ever', uk='майже ніколи', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dwelling', uk='житло', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='short of space', uk='не вистачає місця', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='be at a premium', uk='бути в пошані', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='partitition', uk='-Розділ', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='cramped', uk='обмежений', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='curiosity killed the cat', uk='Цікавість згубила кішку', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='conservatory', uk='консерваторія', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='courtyard', uk='двір', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='walk in wardrobe', uk='гардероб', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='estate', uk='майно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='suburb', uk='передмістя', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='leafy', uk='листяний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sprawling', uk='розтягнутий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='dormitory', uk='гуртожиток', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='extremes', uk='крайності', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='boasts', uk='хвалиться', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='quaint', uk='химерний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='take root', uk='вкорінюватися', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bang your had against a brick wall', uk='BANG ваш був проти цегляної стіни', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='off the wall', uk='дивний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='driving me up the wall', uk='розізлити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='the hole in the wall', uk='банкомат / магазин', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='went to the wall', uk='дійти до річки/ бути знищеним', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='writing is on the wall', uk='чіткі ознаки чогось', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fly on a wall', uk='почути що відбуваєтся десь / бути там але бути не помітним', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hit the wall', uk='бути настільки змученим що не можеш продовжити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sought', uk='шукати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='banging', uk='тріск', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='persevered', uk='вистояв', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fierce', uk='лютий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='defy', uk='ігнорувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='masterstroke', uk='спритний хід', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='caveat', uk='застереження', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='contemporaries', uk='сучасники', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sprouter', uk='проростків', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='master stroke', uk='майстер-тактний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='take a stroll', uk='прогуляйтеся', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='promenading', uk='прогулювався', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='object', uk='висловлювати несхвалення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='inhospitable', uk='негостинний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='vast', uk='величезний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='weathered', uk='вивітрився', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='erased', uk='стертий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bustling', uk='метушливий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='scholarship', uk='вченість', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mural', uk='фреска', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='burial', uk='поховання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='chamber', uk='камера', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='fought', uk='бився', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='peer', uk='вдивлятися', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pear', uk='груша', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='quaint', uk='химерний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='boast', uk='хвастощі', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='admittedly', uk='за загальним визнанням', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='although', uk='хоча', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='even thought', uk='навіть думав', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='however', uk='проте', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='indeed', uk='дійсно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='thus', uk='таким чином', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='savaged', uk='терзав', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='conservatively estimated', uk='консервативні оцінки', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='commodity', uk='товар', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='decline', uk='зниження', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='set in', uk='наступив', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='stirred', uk='перемішують', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='retugee', uk='retugee', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='flippers', uk='ласти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='outstretched', uk='протягнутий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='undulating', uk='хвилеподібний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='certain', uk='певний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='shack', uk='халупа', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ought', uk='повинен', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='appealed', uk='звернувся', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='suggest', uk='пропонувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='refugee', uk='біженець', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='water feature', uk='водяний обєкт', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='clever touch', uk='розумне рішення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='appealed to', uk='звернувся до', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='appalling', uk='страхітливий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='at a premium', uk='у великій пошані', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='glims', uk='ГЛИМС', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='slums', uk='трущоби', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='scant', uk='убогий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mild manered', uk='м'який manered', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='set out your vision', uk='викладені своє бачення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='per capita', uk='на душу населення', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='self systaining', uk='самостійно systaining', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='opposing', uk='противоречиві', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='gorge', uk='захопити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='tide', uk='хвиля', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='incidently', uk='між іншим', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='boast about', uk='хваляться', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='thistle', uk='чортополох', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='barb', uk='колючка / ріпях', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hideous', uk='огидний', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='chimney', uk='димохід', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='mound', uk='термітник', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='do away with', uk='знищувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='convivial', uk='компанійський', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='velcro', uk='липучка', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='feather', uk='перо', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='velcro imitate barb on had of thistle plant', uk='липучка імітують зубець на була з розторопші заводу', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='disguise', uk='маскувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='toenails', uk='нігті на ногах', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hit the ceiling', uk='псіхануть', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='down the drain', uk='нанівець', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='took steps', uk='вжили заходів', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='bringing down the house', uk='досягти успігу / розсмішити', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='hit home', uk='зачипити за живе / зрозуміти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='on the house', uk='безкоштовно', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='on the fence', uk='в роздумах', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='on the shelf', uk='покласти на поличку/ бути вже непотрібним', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='under the table', uk='назаконо', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='crane', uk='кран', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='ingenious', uk='винахідливий', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pasting', uk='склеювання', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='satellite', uk='супутник', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='host', uk='господар', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='quit', uk='вихід', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='pitch', uk='крок', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='breakthroughs', uk='прориви', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='stents', uk='стенти', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='capacitor', uk='конденсатор', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='contraption', uk='штуковина', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='Amusement Park', uk='Парк розваг', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='friction', uk='тертя', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='owe', uk='заборгувати', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='over fake', uk='над підробкою', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='owe smth', uk='зобов'язані л', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='smoothly', uk='гладко', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='have a bright idea', uk='мають яскраву ідею', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='make breakthrougt', uk='зробити breakthrougt', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='reinvent a wheel', uk='винайти колесо', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='in host of', uk='в массі', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='sorcery', uk='чаклунство', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='crumbling', uk='руйнуються', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='test', uk='тест', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='liaison', uk='зв'язок', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='#VALUE!', createionTime=Mon Jun 17 17:10:52 EEST 2019}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='', uk='', createionTime=null}
+Word{eng='test2', uk='test2', createionTime=Mon Jun 17 17:14:47 EEST 2019}
+Word{eng='1', uk='1', createionTime=Mon Jun 17 17:14:47 EEST 2019}

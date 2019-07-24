@@ -1,0 +1,6 @@
+0 19 * * * /workdir/swich_off_instance_by_cron.sh 2>&1
+
+
+sudo apt-get install postfix 
+touch /workdir/logs.txt
+chmod 777 /workdir/logs.txt
